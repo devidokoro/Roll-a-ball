@@ -6,6 +6,22 @@ TagManager:
   tags:
   - PickUp
   - Enemy
+  - Enemy2
+  - Enemy3
+  - Door
+  - Door2
+  - Door3
+  - Enemy4
+  - Door4
+  - Enemy5
+  - Holder1
+  - Holder2
+  - Holder3
+  - Holder4
+  - Holder5
+  - Holder6
+  - Pet
+  - Ground6
   layers:
   - Default
   - TransparentFX
