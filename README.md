@@ -1,4 +1,11 @@
 First Unity Project. 
-Control your Ball to collect all 8 Gold Cubes and avoid the Red Enemy Block.
-Movement: WASD or Arrow Keys
-After pressing Play, click on the game window once to lock the cursor.
+Collect Fruits and beat the Ghost Boss
+Player has 3 lives
+
+Movement: 
+WASD or Arrow Keys
+Shift to Dash
+Spacebar to Jump
+Escape to Pause
+
+Click game window once to lock the cursor
